@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning and deepening my knowledge in:
   - **MCP, A2A & Multi AI-Agents** to enhance my career in AI
   - **Reactive Programming** to scale with native backpressure and enabling virtual threads for blocking requests
-  - **Cross-platform app development** with Kotlin Multiplatform (KMP) and Jetpack Compose
+ 
 
 - 👯 I’m looking to collaborate on:
   - **AI-driven SaaS platforms** (especially micro SaaS ideas like wedding planning tools, vendor onboarding, and contract analysis)
@@ -15,7 +15,9 @@
 - 🧠 I’m curious/studying on my free time about:
   - Exploring **advanced AI/ML applications in Finance** (Quant, FinTech, AI for risk modeling, payments, etc.)
   - Navigating **executive career paths** (CTO, CDO, CIO) while staying hands-on technically
-  - Quantum Computing
+  - **Cross-platform app development** with Kotlin Multiplatform (KMP) and Jetpack Compose
+  - **Vaadin**
+  - **Quantum Computing**
 
 - 💬 Ask me about:
   - **Java, Spring, and Cloud Architectures**
