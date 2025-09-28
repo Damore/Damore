@@ -16,7 +16,6 @@
   - Exploring **advanced AI/ML applications in Finance** (Quant, FinTech, AI for risk modeling, payments, etc.)
   - Navigating **executive career paths** (CTO, CDO, CIO) while staying hands-on technically
   - **Cross-platform app development** with Kotlin Multiplatform (KMP) and Jetpack Compose
-  - **Vaadin**
   - **Quantum Computing**
 
 - 💬 Ask me about:
